@@ -2,7 +2,7 @@
 Minimalist app for photography sharing.
 
 ## Screenshots
-![gif of app](instaport-pv.gif)
+![gif of app](./media/instaport-pv.gif)
 ![screenshot of app](./media/ss-1.png)
 
 ## Tech stack
