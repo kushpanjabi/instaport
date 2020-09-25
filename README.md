@@ -2,7 +2,8 @@
 Minimalist app for photography sharing.
 
 ## Screenshots
-![Screenshot of App](./screenshots/ss-1.png)
+![gif of app](instaport-pv.gif)
+![screenshot of app](./media/ss-1.png)
 
 ## Tech stack
 React, Hooks, Firebase.
